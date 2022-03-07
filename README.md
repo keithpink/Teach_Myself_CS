@@ -1,8 +1,8 @@
 # Teach_Myself_CS
 
-## 1. Language
 
-## 2. Command Line
+
+## 1. Command Line
 
 - Why: faster management of many operating systems; ability to store scripts to automate regular tasks, etc.
 
@@ -11,6 +11,10 @@
 
   - [Terminal Mac cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
+## 2. Python
+
+### Set python environment
+[The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
 
 ## 3. Git/Github
 
