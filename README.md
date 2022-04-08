@@ -27,3 +27,13 @@
   - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) is free course hosted by Udacity. This course covers the essentials of using the version control system Git.
 
   - [Git cheatsheet](https://github.com/0nn0/git-basics-cheatsheet)
+
+## 4. SQL
+
+- Why: SQL is most popular for its interaction with databases.
+
+- Resources:
+  - [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) is a free course hosted by Udacity.  you’ll learn to use SQL to extract and analyze data stored in databases.
+ 
+  - [SQL cheatsheet](cheatsheet/sql.pdf)
+
