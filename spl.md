@@ -49,7 +49,10 @@
 -[1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 
 
-### `DATEDIFF`
+### `LEAST()` & `GREAEST()`
+- [1699. Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)
+
+### `DATEDIFF()`
 
 - [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
 
