@@ -13,9 +13,10 @@
 
 ---
 
-### `GROUP BY`
+### `GROUP BY` & `ORDER BY`
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 
+- [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 
 ### `LIMIT OFFSET`
 
@@ -40,9 +41,11 @@
 
 
 
-### `LEAD()` & `LAG()`
+### `LEAD()` & `LAG()` & `FIRST_VALUE`
 
 - [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+
+- [512. Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
 
 
 ### `UNION`
