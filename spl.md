@@ -98,6 +98,7 @@
 
 - [1212. Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/)
 
+- [1841. League Statistics](https://leetcode.com/problems/league-statistics/)
 
 #### Cumulative Sums
 - [579. Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/)
