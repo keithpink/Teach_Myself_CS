@@ -11,6 +11,8 @@
 
 - [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
 
+- [603. Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)
+
 ---
 
 ### `GROUP BY` & `ORDER BY`
