@@ -24,6 +24,7 @@
 
 - [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 
+
 ### `LIMIT OFFSET`
 
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
@@ -34,12 +35,15 @@
 
 - [608. Tree Node](https://leetcode.com/problems/tree-node/)
 
+
 ### `IF`
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
+
 
 ### `IFNULL`
 - [597. Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)
 
+-[1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 
 ### `DENSE_RANK()`
 
@@ -56,6 +60,8 @@
 
 ### `UNION`
 -[1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+
+-[1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)
 
 
 ### `LEAST()` & `GREAEST()`
