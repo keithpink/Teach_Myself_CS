@@ -36,14 +36,18 @@
 - [608. Tree Node](https://leetcode.com/problems/tree-node/)
 
 
-### `IF`
+### `IF` & `IFNULL`
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 
-
-### `IFNULL`
 - [597. Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)
 
--[1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
+- [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
+
+
+### `SUBSTR(A, index, length)`
+- [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
+
+
 
 ### `DENSE_RANK()`
 
@@ -71,7 +75,7 @@
 
 - [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
 
-### `GROUP_CONCAT()`
+### `GROUP_CONCAT()` & `CONCAT()`
 - [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)
 
 ### `UPDATE`
