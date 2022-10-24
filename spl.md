@@ -6,6 +6,8 @@
 
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 
+- [613. Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/)
+
 
 ### Window function
 
@@ -20,7 +22,6 @@
 
 
 ### `GROUP BY` & `ORDER BY`
-- [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 
 - [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 
