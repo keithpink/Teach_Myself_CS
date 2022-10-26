@@ -25,6 +25,8 @@
 
 - [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 
+- [1398. Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/)
+
 
 ### `LIMIT OFFSET`
 
